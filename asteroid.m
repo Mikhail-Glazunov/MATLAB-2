@@ -21,3 +21,4 @@ figure
 plot3(angvel(:,3),angvel(:,2),angvel(:,1));
 title('3dPlot of angular velocity [0.01,0.01,1]')
 grid on
+
