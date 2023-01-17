@@ -26,10 +26,6 @@
   disp('%    Edit the "user defined input variables" section to adapt                   ');
   disp('%    the program for your case.                                                 ');
   disp('%                                                                               ');
-  disp('% History:                                                                      ');
-  disp('%                                                                               ');
-  disp('%    20011201 (Jim Price)                                                       ');
-  disp('%    20130317 (Charles Chemel)                                                  ');
   disp('%                                                                               ');
   disp('%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%');
   disp(' ');
