@@ -56,3 +56,4 @@ xlabel('x(m)')
 ylabel('y(m)')
 hold off
 totaltime=sum(x)
+
