@@ -9,10 +9,6 @@
 %    Edit the "user defined input variables" section to adapt
 %    the program for your case.
 %
-% History:
-%
-%    20120201 (Lodovica Illari)
-%    20130323 (Charles Chemel)
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
