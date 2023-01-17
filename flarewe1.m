@@ -20,3 +20,4 @@ ylabel('Altitude M');
 finenergy=0.5*mass*posvel(top,2).^2 + mass*gravity*posvel(top,1)
 accuracy=((finenergy-inenergy)/inenergy)
 posvel(top,1)
+
